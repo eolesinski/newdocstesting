@@ -2,6 +2,11 @@
 title: Home
 layout: home
 ---
+# Welcome to the PoliSciPy package!
+{: .fs-9 }
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
