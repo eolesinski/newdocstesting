@@ -1,4 +1,10 @@
-# just-the-docs-template
+
+<div align="center">
+  <img width="721" alt="Screenshot 2024-10-23 at 12 04 41 PM" src="https://github.com/user-attachments/assets/60d6874d-61e7-4872-ae25-2bcb835f2904">
+</div>
+
+
+# PoliSciPy
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
