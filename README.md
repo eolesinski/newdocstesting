@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img width="500" alt="Screenshot 2024-10-23 at 12 04 41 PM" src="https://github.com/user-attachments/assets/b5de4eaa-b6a6-4605-a443-4ddce617d699">
-</div>
-
 # PoliSciPy
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
